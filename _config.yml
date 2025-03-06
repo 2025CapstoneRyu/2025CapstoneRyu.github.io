@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://2025CapstoneRyu.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: 2025CapstoneRyu # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: unity # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: 202101675@inu.ac.kr # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/unity # change to your Twitter homepage
-    - https://github.com/2025CapstoneRyu # change to your GitHub homepage
+    # - https://twitter.com/unity # change to your Twitter homepage
+    # - https://github.com/2025CapstoneRyu # change to your GitHub homepage
     - https://github.com/2025CapstoneRyu  # GitHub 오가니제이션 링크
     - https://www.inu.ac.kr  # 인천대학교 홈페이지
     # Uncomment below to add more social links
