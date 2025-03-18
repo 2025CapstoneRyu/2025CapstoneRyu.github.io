@@ -1,5 +1,5 @@
 ---
-title: 주간 다이어리 3주차 (3.11 ~ 3.17)
+title: 주간 다이어리 2주차 (3.11 ~ 3.17)
 date: 2025-03-18 12:24:33 +09:00
 categories: [weekly diary]
 tags: [weekly diary, 주간 다이어리]
